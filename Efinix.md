@@ -21,3 +21,17 @@ insert the link
 
 There are two ways to creat links
 [the Efinix company webiste is ](http://efinixinc.com)
+
+maybe we want to use the link directly www.efinixinc.com
+
+# Images
+
+ my document have the following imag
+
+ Here's our logo (hover to see the title text):
+
+Inline-style: 
+![alt text](../docx_imag/PB190024.jpg "Logo Title Text 1")
+
+Reference-style: 
+![alt text][logo]
