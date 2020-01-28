@@ -6,7 +6,11 @@ __Emphasis__
 在过去你听过很多公司的产品
 
 １．　我的而第一项
-２．　我的ｄｉｅｒｘｉａｎｇ
+２．　我的__第二项目__
+
+偶尔我们需要重视的是： **你必须学习网络的开源分享方式**
+那些还采用自闭的方式是： ~~等于自杀~~
+
 ..*  it is my 2nd title list
 
 3. it is very important
@@ -20,11 +24,14 @@ insert the link
 ## Links
 
 There are two ways to creat links
+
+第一种方法，　是在显示的内容上，　嵌入链接
 [the Efinix company webiste is ](http://efinixinc.com)
 
+第二种方法，　就是直接将链接写在正文里
 maybe we want to use the link directly www.efinixinc.com
 
-# Images
+## Images
 
  my document have the following imag
 
@@ -35,6 +42,8 @@ Inline-style:
 
 Reference-style: 
 ![alt text][logo]
+
+## 代码说明
 
 ```verilog
 
@@ -111,4 +120,61 @@ endmodule // helloworld
 
 
 ```
-    
+
+##Power Benchmark
+
+We will list the power as follows
+
+| Vendor        | FPGA           | Power  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
+> 请注意，　这个是我们引用其他的文档
+> 这些数据具有参考意义
+
+文档参考
+
+## 水平分隔线使用
+
+
+　
+Three or more...
+
+---
+
+Hyphens
+
+***
+
+Asterisks
+
+___
+
+Underscores
+
+## 自然换行的段落
+
+我们描述第一段文字
+
+我们描述第二段文字
+
+我们描述第三段文字
+
+
+## Youku 视频的引用
+
+
+
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://v.youku.com/v_show/id_XNDQxOTY0NDI3Ng==.html?spm=a2h0k.11417342.soresults.dtitle)
+
+<a href="https://v.youku.com/v_show/id_XNDQxOTY0NDI3Ng==.html?spm=a2h0k.11417342.soresults.dtitle" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
