@@ -31,7 +31,7 @@ maybe we want to use the link directly www.efinixinc.com
  Here's our logo (hover to see the title text):
 
 Inline-style: 
-![alt text](..blob/master/docx_imag/PB190024.jpg "Logo Title Text 1")
+![alt text](../docx_imag/PB190024.jpg "Logo Title Text 1")
 
 Reference-style: 
 ![alt text][logo]
