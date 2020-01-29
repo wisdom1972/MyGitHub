@@ -2,7 +2,10 @@
 
 Dec-19-2019
 
-Wisdom Zhang
+Wisdomz
+
+Trion Chips: 
+![alt text](./docx_imag/trionchip_cover.png "Trion FPGA, small package")
 
 
 __一种新型的FPGA结构__
@@ -16,8 +19,9 @@ Altera在2000年的时候，开始了一种MAX和FLEX体系相结合的产品，
 加拿大多伦多大学的Jonathan Rose一直致力于FPGA结构的设计和软件布局布线方面的研究， 他们好像发现了Altera碰到了这个头疼的问题， 可是在当时加拿大并没有一家半导体公司在研发FPGA或者PLD，可是Altera觉得可以让Rose教授的团队来试一试。
 事情的结果是， Jonathan开了一家专门设计FPGA结构的EDA公司， 这家公司后来被Altera收购了， 此后Altera公司的FPGA结构设计以及软件都如虎添翼，尽然后来反超Xilinx，成为业内翘楚。 有关Jonathan先生的信息可以参考
 
-[Jonathan Rose website ] (http://www.eecg.toronto.edu/~jayar/)
+[Jonathan Rose website](http://www.eecg.toronto.edu/~jayar/)
 
+http://www.eecg.toronto.edu/~jayar/
 
 Jonathan有带了不少学生，这些学生不少都是FPGA行业中很重要的学说创立和遂行者， 网站上也罗列了他的学生以及现在的一些成就。
 
@@ -32,7 +36,17 @@ The VPR toolset and methodology developed by Dr. Betz have become the standard f
 现在FPGA的结构设计以及布局布线软件的研发前沿也基本上继续在多伦多大学不断提高， 成为这个行业最重要的理论实践的推动源头。 
 
 
-实际上在2008年以前， 有人统计至少有48家公司先后涉及可编程器件行业， 但是大部分都折戟沉沙，杳无踪影。 
+实际上在2008年以前， 有人统计至少有48家公司先后涉及可编程器件行业， 但是大部分都折戟沉沙，杳无踪影。
+
+More FPGA Startups by 2008 from website: 
+![alt text](./docx_imag/History_of_PLD_Startups.png "More FPGA Startups by 2008")
+
+
+这幅图片的来源出处
+
+http://www.ocoudert.com/blog/wp-content/uploads/2009/10/History_of_PLD_startups.gif
+
+
 
 __Silicon is not Enough__
 
