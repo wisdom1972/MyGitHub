@@ -5,7 +5,7 @@ Dec-19-2019
 Wisdomz
 
 Trion Chips: 
-![alt text](./docx_imag/trionchip_cover.png "Trion FPGA, small package")
+![alt text](./docx_imag/trionchip_cover.jpg "Trion FPGA, small package")
 
 
 __一种新型的FPGA结构__
@@ -39,7 +39,7 @@ The VPR toolset and methodology developed by Dr. Betz have become the standard f
 实际上在2008年以前， 有人统计至少有48家公司先后涉及可编程器件行业， 但是大部分都折戟沉沙，杳无踪影。
 
 More FPGA Startups by 2008 from website: 
-![alt text](./docx_imag/History_of_PLD_Startups.png "More FPGA Startups by 2008")
+![alt text](./docx_imag/History_of_PLD_Startups.jpg "More FPGA Startups by 2008")
 
 
 这幅图片的来源出处
