@@ -4,8 +4,8 @@ Dec-19-2019
 
 Wisdomz
 
-Trion Chips: 
-![alt text](./docx_imag/trionchip_cover.jpg "Trion FPGA, small package")
+Trion FPGA: 
+![alt text](./docx_imag/trionchip_cover.jpg "Trion FPGA picture")
 
 
 __一种新型的FPGA结构__
