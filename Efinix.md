@@ -30,6 +30,7 @@ http://www.eecg.toronto.edu/~jayar/former-graduate-students.html
 在FPGA行业中最有影响力的学生之一 Vaughn Betz 他在FPGA行业中最有影响力的学生之一，他的自我介绍中有一段辉煌的经历
 
 The VPR toolset and methodology developed by Dr. Betz have become the standard for FPGA architecture research and the comparison point for CAD optimization quality, and have been used by over 180 companies and 1100 universities. Dr. Betz co-founded Right Track CAD to commercialize his research in 1998 and over the next two years helped grow the company to 10 engineers and several million dollars in yearly revenue. In 2000, Right Track CAD was acquired by one of its customers, Altera Corporation (a fortune 500 semiconductor company). Dr. Betz held several leadership positions within Altera over the next 11 years,
+
 还有一位是Altera公司的大学教育计划的推动者，[Steven Brown](http://www.eecg.toronto.edu/~brown/)
 
 还有一位是Tony Ngai， 是EFINIX的魏启杰，EFINIX公司的CTO
