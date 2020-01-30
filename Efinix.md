@@ -4,7 +4,7 @@ Dec-19-2019
 
 Wisdomz
 
-Trion FPGA:
+Trion FPGA picture:
 ![alt text](./docx_imag/trionchip_cover.jpg "Trion FPGA picture")
 
 
