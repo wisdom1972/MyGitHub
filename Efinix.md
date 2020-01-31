@@ -49,9 +49,9 @@ http://www.ocoudert.com/blog/wp-content/uploads/2009/10/History_of_PLD_startups.
 
 
 
-__Silicon is not Enough__
-
---John Daane CEO of Altera
+> __Silicon is not Enough__
+>
+> --John Daane CEO of Altera
 
 含义就是只有芯片是不足够的，你必须要有很好的逻辑开发软件，而且这个开发软件特别是基本上接触到EDA软件的很多方面，开发成本和试错成本都非常高， 而且整个行业竞争迭代很快，不仅仅在工艺上有进步，结构设计上，benchmark的选择上，IP的集成方面，可以说基本上每个环节方面都不能犯错。 而且开发一个全新的产品基本上都要3年的开发周期。加上要不断维护升级复杂的开发工具。总而言之，活下来的一定是凤凰了。
 那么2008年以后，还是有几家公司进入这个行业， 比较著名的有Tabula， SiliconBlue，Tabula在烧光了10亿美元之巨后消失了，SiliconBlue也被Lattice收购， 所以你想进入这个行业，而且活下来，至少你要敢于挑战现有的环境，并且确实有自己的创新之处。同时行业的很多既有成果和习惯也要考量，尽可能利用已有的资源，而不是重复造轮子。
