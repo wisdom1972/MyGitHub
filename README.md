@@ -12,6 +12,9 @@ Efinix FPGA 的第一个低成本FPGA家族是 Trion :
 - we will provide the EVB and software for your evaluation.
 - ...
 
+## 神秘的FPGA公司Efinix
+
+[EFinix Introduction](./Efinix.md)
 
 ## Trion FPGA Family
 
